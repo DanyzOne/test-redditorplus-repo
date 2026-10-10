@@ -1,0 +1,15 @@
+Package: com.redditorkey.changer
+Version: 1.2.16
+Architecture: iphoneos-arm64
+Maintainer: Redditor+
+Depends: firmware (>= 15.0), mobilesubstrate, zip, unzip
+Filename: debs/RedditorPlus_1.2.16_iphoneos-arm64.deb
+Size: 991554
+MD5sum: 83a5d7f18463969ec2a95606c4cd92e1
+SHA1: 0cae48d3641b2433840a8570efb6c5098d6de809
+SHA256: 1082647ec40f51ca23a13edfa34386a379404520ec26d3886e5bf230ae649f6d
+Section: Tweaks
+Description: Redditor+ rootless profile manager
+Author: Redditor+
+Name: Redditor+
+
