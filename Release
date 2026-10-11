@@ -1,0 +1,7 @@
+Origin: Redditor+
+Label: Redditor+ Test
+Suite: stable
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: Test Sileo repository for Redditor+
