@@ -394,10 +394,10 @@ Architecture: iphoneos-arm64
 Maintainer: Redditor+
 Depends: firmware (>= 15.0), mobilesubstrate, zip, unzip
 Filename: debs/RedditorPlus_1.2.43_iphoneos-arm64.deb
-Size: 1062856
-MD5sum: 47e741573b78830c95835f53c888f4c5
-SHA1: af8cad35b642245f178d912c1ec38a091f44e06b
-SHA256: a11d5dd79f960217338b71ab9d60512700d0c59ce6b9c9d51ec937badbf41f83
+Size: 1063010
+MD5sum: 519317b2547f343ff9c44c2b48200c1e
+SHA1: b96f1f960fdd0b4c4533c39478c0c1ad4efaeadb
+SHA256: 53e915e21e0d271fbdf151aaecd2b08cb1f84086ebd8385720aa8a325f3b5749
 Section: Tweaks
 Description: Redditor+ rootless profile manager
 Author: Redditor+
